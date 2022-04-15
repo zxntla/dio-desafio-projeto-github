@@ -5,7 +5,7 @@
 <hr>
 
 
-* Links utéis:
-https://www.devchallenge.com.br/challenges?type=frontend
-https://html5up.net/
+* Links utéis: <br>
+https://www.devchallenge.com.br/challenges?type=frontend <br>
+https://html5up.net/ <br>
 https://startbootstrap.com/themes
